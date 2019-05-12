@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css?family=Numans');
+
+html,body{
+background-image: url('http://getwallpapers.com/wallpaper/full/5/8/f/20363.jpg');
+background-size: cover;
+background-repeat: no-repeat;
+font-family: 'Numans', sans-serif;
+}
+#tdl {
+    display: block;
+    background-color: #4e4646;
+    float: left;
+    padding: 20px;
+    color: white;
+}
+#calc{
+   display: block;
+    background-color: #4e4646;
+    float: left;
+    padding: 20px;
+    color: white;
+    margin-left: 1px;
+
+}
+
+#res{
+   display: block;
+    background-color: #4e4646;
+    float: left;
+    padding: 20px;
+    color: white;
+    margin-left: 1px;
+
+}
+.cal {
+width: 100%;
+margin: 0px;
+padding: 0px;
+}
+.calbody{
+	display: block;
+padding: 50px;
+width: 400px;
+background-color: rgba(0,0,0,0.5) !important;
+  margin: 100px auto 0;
+margin-left: 464px;
+}
+.bttn {
+    width: 76px;
+    background-color: #e2e1e2;
+    color: black;
+    border: none;
+    height: 50px;
+    font-size: 25px;
+
+}
+#display {
+    width: 303px;
+    background: #e8e1e1;
+    height: 50px;
+    font-size: 25px;
+    border: none;
+    margin: 1px;
+}
